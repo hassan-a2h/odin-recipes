@@ -1,2 +1,2 @@
 # odin-recipes
-Practice project of html
+This is practice project built using html following the web-basics path from OdinProject.
